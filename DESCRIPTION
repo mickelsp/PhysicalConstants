@@ -1,0 +1,9 @@
+Package: PhysicalConstants
+Type: Package
+Title: Loads physical constants from NIST database of Fundamental Physical Constants
+Version: 1.0
+Date: 2013-02-06
+Author: Pascal Mickelson
+Maintainer: Pascal Mickelson, https://github.com/mickelsp/PhysicalConstants
+Description: Loads physical constants from NIST database Fundamental Physical Constants and assigns them human-readable names
+License: Creative Commons Attribution 3.0 Unported License
